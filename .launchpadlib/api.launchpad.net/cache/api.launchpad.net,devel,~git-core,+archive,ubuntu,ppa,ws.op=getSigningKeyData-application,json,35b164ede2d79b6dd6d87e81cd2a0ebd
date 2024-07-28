@@ -1,0 +1,22 @@
+status: 200
+date: Tue, 02 Jul 2024 12:05:05 GMT
+server: gunicorn
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: bbfa2351d9d6a9ddfe262109428f7bf5516e65d1
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: bbfa2351d9d6a9ddfe262109428f7bf5516e65d1
+x-request-id: df9b6e88-e040-4ff4-9a13-63aa8b0a982b
+content-length: 593
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~git-core/+archive/ubuntu/ppa?ws.op=getSigningKeyData
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+"-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmI0ESXjaGwEEAMA26F3+mnRW8uRqASMsEa5EsmgvUpLD7EKpC7903OpiMGSvZ2sE\n34g7W6nUQY0R//AZS2iW4ZXfvdhQTQuuPlHM6Q3iUAt+nyXcf9xBlscs8Gm722u4\njAtFtBS4BMQRhRRfWTHwJIOM6OpGIccjPe8pQfIeoRxkKJxlehzw2mU1ABEBAAG0\nKExhdW5jaHBhZCBQUEEgZm9yIFVidW50dSBHaXQgTWFpbnRhaW5lcnOItgQTAQIA\nIAUCSXjaGwIbAwYLCQgHAwIEFQIIAwQWAgMBAh4BAheAAAoJEKFxXYjh3x8k/zMD\n/RKBMjavvFl71YBazSOGl2YfSsZiR/ANsby3+rUaULb8uxzCHXAQnlH5vdtLSPry\naLBvzCU8C3C02qNT8jRacU2752zsCkCi1SLRSOXdI/ATJHza5aTvYV93rTITBhU4\nsJQeK9RW0CtaDRAxJsn/Dr6J3lL/c9m9cT5fFpxOIsF4\n=33dX\n-----END PGP PUBLIC KEY BLOCK-----\n"
